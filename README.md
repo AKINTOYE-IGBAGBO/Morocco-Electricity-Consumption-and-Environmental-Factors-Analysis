@@ -55,11 +55,11 @@ Environmental Measurements - 5
 
    project. Steady outdoor breezes allow for natural cross-ventilation, reducing the need to run air conditioners.
 
-4. General Diffuse Flows -measures of how much emissions gases diffuse into the broader atmosphere. Poor atmospheric dispersion may
+4. General Diffuse Flows -measures  how much emissions gases diffuse into the broader atmosphere. Poor atmospheric dispersion may
 
    increase electricity consumption.
 
-5. DiffuseFlows- measuresof how much emissions gases diffuse into the local atmosphere.
+5. DiffuseFlows- measures how much emissions gases diffuse into the local atmosphere.
 
 
 
