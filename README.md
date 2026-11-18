@@ -1,6 +1,10 @@
 # Morocco-Electricity-Consumption-and-Environmental-Factors-Analysis
 
-Week 6 AnalaystLab Project Analysis to electricity consumption patterns across three different geographical zones using  electricity consumption readings every 10 minutes, alongside environmental measurements such as temperature, humidity, wind speed and diffuse flow measurements.
+Week 6 AnalaystLab Project Analysis to electricity consumption patterns across three different geographical zones using  electricity
+
+consumption readings every 10 minutes, alongside environmental measurements such as temperature, humidity, wind speed and diffuse flow 
+
+measurements.
 
 
 ### Objectives
@@ -41,23 +45,23 @@ Environmental Measurements - 5
 
 ### Importance of Environmental Measurements to Electric Consumption
 
-1. Temperature - provides seasonal insights and electric demands during the season. A  very hot season  may increase electric consumption
+1. Temperature - provides seasonal insights and electric demands during the season. A  very hot season  may increase electric
 
-   cooling appliances while extreme cold day may also increase electric demands from heating methods.
+   consumption through cooling appliances while extreme cold day may also increase electric demands from heating methods.
 
-2. Humidity -The relative humidity (RH) range spans 0% to 100%, which represents the percentage of water vapor currently in the air
+2. Humidity -The relative humidity (RH) range spans 0% to 100%, which represents the percentage of water vapor currently
 
-   compared to the maximum amount the air can hold at that temperature. Low humidity can increase heating demand, High humidity can
+   in the air compared to the maximum amount the air can hold at that temperature. Low humidity can increase heating 
 
-   increase cooling demand.
+   demand, High humidity can increase cooling demand.
 
-3. Wind of Speed - measures how fast air moves horizontally across the Earth's surface recorded in kilometers per hour (km/h) for this
+4. Wind of Speed - measures how fast air moves horizontally across the Earth's surface recorded in kilometers per hour (km/h)
 
-   project. Steady outdoor breezes allow for natural cross-ventilation, reducing the need to run air conditioners.
+   for this project. Steady outdoor breezes allow for natural cross-ventilation, reducing the need to run air conditioners.
 
-4. General Diffuse Flows -measures  how much emissions gases diffuse into the broader atmosphere. Poor atmospheric dispersion may
-
-   increase electricity consumption.
+5. General Diffuse Flows -measures  how much emissions gases diffuse into the broader atmosphere. Poor 
+ 
+   atmospheric dispersion may increase electricity consumption.
 
 5. DiffuseFlows- measures how much emissions gases diffuse into the local atmosphere.
 
