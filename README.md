@@ -2,9 +2,9 @@
 
 Week 6 AnalaystLab Project Analysis to electricity consumption patterns across three different geographical zones using  electricity
 
-consumption readings every 10 minutes, alongside environmental measurements such as temperature, humidity, wind speed and diffuse flow 
+consumption readings every 10 minutes, alongside environmental measurements such as temperature, humidity, wind speed and 
 
-measurements.
+diffuse flow measurements.
 
 
 ### Objectives
@@ -34,7 +34,7 @@ Environmental Measurements - 5
 **Tools** - Jupyter Note book, 
 
 
-### Definition and Important Readings and Columns generated for analysis
+### Definition of Columns for analysis
 
 1. Power - rate which electrical energy transferred or consumed  measured kW for this project.
 
