@@ -31,8 +31,11 @@ Reading Time - 10 minutes
 Environmental Measurements - 5
 
 
-**Tools** - Jupyter Note book, 
+**Tools** - Jupyter Note book
 
+Pandas- Data Cleaning and Analysis
+
+Matplotlib, Seaborn and Plotly - Data Visualization
 
 ### Definition of Columns for analysis
 
@@ -51,9 +54,9 @@ Environmental Measurements - 5
 
 2. Humidity -The relative humidity (RH) range spans 0% to 100%, which represents the percentage of water vapor currently
 
-   in the air compared to the maximum amount the air can hold at that temperature. Low humidity can increase heating 
+   in the air compared to the maximum amount the air can hold at that temperature.Low humidity can increase cooling demand
 
-   demand, High humidity can increase cooling demand.
+   while electric consumption is during high humidity is influenced by temperature.
 
 4. Wind of Speed - measures how fast air moves horizontally across the Earth's surface recorded in kilometers per hour (km/h)
 
@@ -84,6 +87,27 @@ Date time Validation: String type converted to datetime type.
 
 
 ### Insights
+
+1.	Zone 1 consumes about 45.41 % of the total power consumption.
+
+2.About 1,191 records a very high consumption in zone 3 during summer periods.
+
+3.	Total power consumption peak from June to august (> 54GWh) while Off-Peak demand occurs in February and December (<46 GWh).
+
+4.	Peak hours for all zones occur during 8 pm while off peak hours are between 6 to 7 am.
+
+5.	Temperature has the highest positive correlation to power consumption, with zone 3 being the most sensitive.
+
+6.	Humidity has a negative correlation with electric consumption.
+
+7.	Windspeed has a low positive correlation with electric consumption.
+
+8.	Peak days of the week for electric consumption is from Tuesday to Thursday.
+
+
+### Authur
+
+www.linkedin.com/in/igbagbo-akintoye-5344a7ba
 
 
 
