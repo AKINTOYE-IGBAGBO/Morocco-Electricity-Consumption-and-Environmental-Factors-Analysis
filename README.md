@@ -70,6 +70,28 @@ Matplotlib, Seaborn and Plotly - Data Visualization
 
 
 
+### Project Analysis Steps
+
+1. Importing data into notebook using Panda
+
+2. Converting to a data frame
+
+3. Data cleaning
+
+4. Generating calculated columns for further analysis
+
+5. Consumption analysis
+
+6. Time-based Analysis
+
+7. Environmental Analysis
+
+8. Data Visualization 
+
+[All steps and visuals](https://github.com/AKINTOYE-IGBAGBO/Morocco-Electricity-Consumption-and-Environmental-Factors-Analysis/blob/main/Power_Consumption.ipynb)
+
+
+
 ### Data Cleaning 
 
 Missing Values : None
